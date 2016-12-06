@@ -1,0 +1,35 @@
+.text-header {
+	color: white;
+	text-align: center;
+	font-family: 'Aref Ruqaa', serif;
+	font-size: 200px;
+	font-weight: bolder;
+}
+
+body {
+     margin: 0;
+     background: url('../images/background-image.jpg');
+     background-size: 1440px 800px;
+     background-repeat:repeat-y;
+    display: compact;
+    font-family: 'Aref Ruqaa', serif;
+
+    
+}
+
+
+.header-buttons, .charSelectSection, .chosenCharacterSection, .arenaSection, .opponentSection, .opponentSelectSection {
+	width: 100%;
+	background: rgba(127, 127, 127, 0.8);
+	padding:20px;
+	margin: 10px 0px;
+	font-family: 'Aref Ruqaa', serif;
+	color: white;
+	text-align: center;
+}
+
+.picStyle, .startStyle, .userStyle {
+	background: black;
+	margin: 0;
+
+}
